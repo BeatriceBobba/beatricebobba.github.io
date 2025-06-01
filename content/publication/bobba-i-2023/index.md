@@ -28,4 +28,8 @@ tags:
 - emerging adulthood
 
 url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/jora.12836
+
+reading_time: false
+show_date: false
+share: true
 ---
