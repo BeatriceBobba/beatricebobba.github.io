@@ -10,7 +10,6 @@ authors:
 - Ifunanya Chukwueke
 - Sevgi Bayram Özdemir
 date: '2024-01-01'
-publishDate: '2025-06-01T17:55:08.779859Z'
 publication_types:
 - article-journal
 publication: '*British Journal of Developmental Psychology*'
@@ -28,7 +27,19 @@ abstract: Sense of academic futility entails feelings of having no control over 
   at the classroom level. No mediation or moderation effects emerged. These findings
   highlight the crucial role of democratic student–teacher relationships in supporting
   the positive school adjustment of all students in increasingly multicultural societies.
+tags:
+- class belonging
+- sense of academic futility
+- student-teacher relationships
+- immigrant and non-immigrant adolescents
+- multilevel
 links:
-- name: URL
-  url: https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12504
+- name: Codes and study materials
+  url: https://osf.io/g5yvc/
+
+url_pdf: https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjdp.12504
+
+reading_time: false
+show_date: false
+share: true
 ---
