@@ -6,7 +6,6 @@ authors:
 - Jochem Thijs
 - Elisabetta Crocetti
 date: '2024-01-01'
-publishDate: '2025-06-01T17:55:08.843414Z'
 publication_types:
 - article-journal
 publication: '*British Journal of Social Psychology*'
@@ -28,7 +27,19 @@ abstract: Although there have been numerous studies on the relations between gro
   levels and momentary fluctuations of both ingroup identifications and ethnic prejudice
   in order to orient future interventions aimed at improving the quality of intergroup
   relationships.
+tags:
+- national identity
+- human identity
+- ethnic prejudice
+- adolescence
+- multilevel
+
 links:
-- name: URL
-  url: https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12755
+- name: Codes and study materials
+  url: https://osf.io/9gh8d/
+url_pdf: https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjso.12755
+
+reading_time: false
+show_date: false
+share: true
 ---
