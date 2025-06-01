@@ -6,7 +6,6 @@ authors:
 - Adele Miniati
 - Elisabetta Crocetti
 date: '2024-01-01'
-publishDate: '2025-06-01T15:32:59.981742Z'
 publication_types:
 - article-journal
 publication: '*Journal of Research on Adolescence*'
@@ -25,4 +24,18 @@ abstract: Ethnic prejudice poses great challenges to adolescents' adjustment to 
   regardless of adolescents' direct consumption of newspapers. These findings highlight
   the role of the information environment and suggest the need to account for it in
   planning interventions.
+tags:
+- media influences
+- newspaper content
+- ethnic prejudice
+- adolescence
+- longitudinal
+link:
+- name: Codes and study materials
+  url: https://osf.io/6btah/
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jora.13013
+
+reading_time: false
+show_date: false
+share: true
 ---
