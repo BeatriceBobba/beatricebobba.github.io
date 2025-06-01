@@ -4,7 +4,6 @@ authors:
 - Beatrice Bobba
 - Elisabetta Crocetti
 date: '2022-07-01'
-publishDate: '2025-06-01T15:32:59.916271Z'
 publication_types:
 - article-journal
 publication: '*Journal of Youth and Adolescence*'
