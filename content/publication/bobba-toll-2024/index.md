@@ -5,7 +5,6 @@ authors:
 - Beatrice Bobba
 - Elisabetta Crocetti
 date: '2024-11-01'
-publishDate: '2025-06-01T17:55:08.790914Z'
 publication_types:
 - article-journal
 publication: '*European Journal of Personality*'
@@ -27,7 +26,19 @@ abstract: Ethnic prejudice has negative effects on the well-being of ethnic mino
   this research highlights for the ﬁrst time the intertwined nature of prejudice and
   well-being among ethnic majority youth and suggests the need to support adolescents
   in navigating the diversity of current societies.
+tags:
+- ethnic prejudice
+- well-being and adjustment
+- sleep quality
+- adolescents
+- longitudinal and daily study
+
 links:
-- name: URL
-  url: https://journals.sagepub.com/doi/10.1177/08902070241289965
+- name: Codes and study materials
+  url: https://osf.io/svucm/
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/08902070241289965
+
+reading_time: false
+show_date: false
+share: true
 ---
