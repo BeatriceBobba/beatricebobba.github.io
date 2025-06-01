@@ -7,7 +7,6 @@ authors:
 - Theo A Klimstra
 - Elisabetta Crocetti
 date: '2024-01-01'
-publishDate: '2025-06-01T15:32:59.967931Z'
 publication_types:
 - article-journal
 publication: '*Applied Developmental Science*'
@@ -26,4 +25,22 @@ abstract: Study abroad experiences can be an important asset for individuals’ 
   connections in the narratives was indirectly linked to lower affective prejudice
   via increased in-depth exploration. These findings highlight the importance of abroad
   experiences for consolidating self- and other-oriented views.
+
+tags:
+- study abroad experiences
+- narrative identity
+- national identity
+- European identity
+- ethnic prejudice
+- emerging adulthood
+
+links:
+- name: Codes and study materials
+  url: https://osf.io/h2mwz/
+
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/10888691.2024.2407884
+
+reading_time: false
+show_date: false
+share: true
 ---
