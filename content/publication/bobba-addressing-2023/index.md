@@ -17,7 +17,7 @@ tags:
 - emerging adulthood
 - latent growth curve
 links:
-- name: Codes and materials
+- name: Codes and study materials
   url: https://osf.io/sfnzp/
 
 reading_time: false
