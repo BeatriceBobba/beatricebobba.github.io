@@ -1,11 +1,9 @@
 ---
-title: '“I feel you!”: The role of empathic competences in reducing ethnic prejudice
-  among adolescents'
+title: '“I feel you!”: The role of empathic competences in reducing ethnic prejudice among adolescents'
 authors:
 - Beatrice Bobba
 - Elisabetta Crocetti
 date: '2022-07-01'
-publishDate: '2025-06-01T17:55:08.798662Z'
 publication_types:
 - article-journal
 publication: '*Journal of Youth and Adolescence*'
@@ -23,7 +21,20 @@ abstract: Empathic competences might help adolescents navigate current multicult
   Furthermore, the prevalence of affect over cognition was found, with the affective
   component of both empathic competences (i.e., empathic concern) and ethnic prejudice
   exerting the strongest inﬂuence on the cognitive ones.
+tags:
+- empathic competences
+- ethnic prejudice
+- perspective-taking
+- longitudinal
+- adolescence
+
 links:
-- name: URL
-  url: https://link.springer.com/10.1007/s10964-022-01650-0
+- name: Codes and study materials
+  url: https://osf.io/k8ypz/
+
+url_pdf: https://link.springer.com/10.1007/s10964-022-01650-0
+
+reading_time: false
+show_date: false
+share: true
 ---
