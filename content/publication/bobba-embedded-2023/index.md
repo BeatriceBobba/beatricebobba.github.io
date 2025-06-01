@@ -27,6 +27,13 @@ abstract: Dramatic changes in sleep duration, schedules, and quality put adolesc
   need for more longitudinal and multimethod studies addressing sleep quality as embedded
   in contexts and the reciprocal influences among the multiple layers of adolescents’
   development.
+
+tags:
+- sleep quality
+- distal influences
+- systematic review
+- adolescence
+
 url_pdf: https://link.springer.com/10.1007/s40894-023-00204-0
 
 reading_time: false
