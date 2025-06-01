@@ -6,7 +6,6 @@ authors:
 - Susan Branje
 - Elisabetta Crocetti
 date: '2024-01-01'
-publishDate: '2025-06-01T15:32:59.974951Z'
 publication_types:
 - article-journal
 publication: '*Child Development*'
@@ -23,4 +22,19 @@ abstract: The family and classroom are important contexts that can contribute to
   (i.e., adverse compensatory effect) and cognitive (i.e., amplifying effect) prejudice.
   Thus, adolescents draw from the multiple contexts of development to orient themselves
   in the social world.
+tags:
+- parental influences
+- classroom influences
+- ethnic prejudice
+- adolescence
+
+link:
+- name: Codes and study materials
+  url: https://osf.io/h5x7k/
+
+url_pdf: https://srcd.onlinelibrary.wiley.com/doi/epdf/10.1111/cdev.14087
+
+reading_time: false
+show_date: false
+share: true
 ---
