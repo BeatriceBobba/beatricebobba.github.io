@@ -9,7 +9,6 @@ authors:
 - Beatrice Bobba
 - Monica Rubini
 date: '2024-01-01'
-publishDate: '2025-06-01T17:55:08.827396Z'
 publication_types:
 - article-journal
 publication: '*Journal of Youth and Adolescence*'
@@ -35,13 +34,14 @@ abstract: Personal identity and social identification processes can be challengi
   and over time) emerged. Overall, this study points to virtuous alliances between
   the fulfillment of tasks related to adolescents’ identity development and acculturation.
 tags:
-- Education
-- Longitudinal
-- Social identification
-- Acculturation
-- Friendships
-- Personal identity
-links:
-- name: URL
-  url: https://doi.org/10.1007/s10964-023-01870-y
+- personal identity
+- social identifications
+- acculturation
+- ethnic minority adolescents
+- longitudinal
+url_pdf: https://link.springer.com/article/10.1007/s10964-023-01870-y
+
+reading_time: false
+show_date: false
+share: true
 ---
