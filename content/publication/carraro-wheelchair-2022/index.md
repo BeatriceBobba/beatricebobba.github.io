@@ -11,7 +11,6 @@ authors:
 - Susanna Pozzi
 - Valeria A. Sansone
 date: '2022-01-01'
-publishDate: '2025-06-01T17:55:08.908038Z'
 publication_types:
 - article-journal
 publication: '*PM&R*'
@@ -40,7 +39,14 @@ abstract: Background Participation in sports is known to have positive effects o
   significant association between participation in wheelchair hockey and improved
   physical and psychological well-being of people affected by neuromuscular diseases
   compared to those who are not involved in adaptive sports.
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12736
+tags:
+- adaptive sports
+- neuromuscular disease
+- quality of life
+- self-efficacy
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12736
+
+reading_time: false
+show_date: false
+share: true
 ---
