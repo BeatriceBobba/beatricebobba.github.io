@@ -6,7 +6,6 @@ authors:
 - Kazumi Sugimura
 - Elisabetta Crocetti
 date: '2023-02-01'
-publishDate: '2025-06-01T17:55:08.806369Z'
 publication_types:
 - article-journal
 publication: '*Journal of Research on Adolescence*'
@@ -22,7 +21,15 @@ abstract: The ways in which youth reach a stable identity, a core developmental 
   differences in identity processes and time perspective emerged between the two cohorts.
   Moreover, significant associations between identity and time perspective were found
   to be similar across different identity domains and cohorts.
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1111/jora.12836
+tags:
+- personal identity
+- time perspective
+- COVID-19 pandemic
+- emerging adulthood
+
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/jora.12836
+
+reading_time: false
+show_date: false
+share: true
 ---
