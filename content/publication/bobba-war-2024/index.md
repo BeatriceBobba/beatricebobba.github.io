@@ -5,7 +5,6 @@ authors:
 - Jochem Thijs
 - Elisabetta Crocetti
 date: '2024-01-01'
-publishDate: '2025-06-01T15:32:59.952534Z'
 publication_types:
 - article-journal
 publication: '*Journal of Adolescence*'
@@ -31,7 +30,18 @@ abstract: "Introduction: Ethnic prejudice poses a great challenge to the cohesio
   of the war on Twitter were not associated with changes in prejudice. Conclusions:
   These ﬁndings highlight the importance of media attention for the war's victims
   in skewing individuals' outgroup perceptions and feelings."
+tags:
+- media influences
+- Russia-Ukraine ward
+- ethnic prejudice
+- longitudinal
+
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/jad.12234
+- name: Codes and study materials
+  url: https://osf.io/njehw/
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jad.12234
+
+reading_time: false
+show_date: false
+share: true
 ---
