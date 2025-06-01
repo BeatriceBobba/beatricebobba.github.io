@@ -1,0 +1,47 @@
+---
+title: 'A war on prejudice: The role of media salience in reducing ethnic prejudice'
+authors:
+- Beatrice Bobba
+- Jochem Thijs
+- Elisabetta Crocetti
+date: '2024-01-01'
+publication_types:
+- article-journal
+publication: '*Journal of Adolescence*'
+doi: 10.1002/jad.12234
+abstract: "Introduction: Ethnic prejudice poses a great challenge to the cohesion
+  of current multicultural societies. Prior research has found that media portrayals
+  of immigration‐related issues might skew individual attitudes and feelings toward
+  ethnic minorities. While these studies have focused on negative representations
+  of ethnic minorities, less is known about the eﬀects of media reports of unfortunate
+  events aﬀecting the victims of war, as in the case of the Ukrainian group in the
+  Russia–Ukraine war. Therefore, the current research aims to examine whether media
+  salience of this situation might change adolescents' ethnic prejudice against the
+  Ukrainian minority. Methods: A total of 1016 ethnic‐majority Italian adolescents
+  (Mage = 15.66, SDage = 1.17, 49.61% females) completed online questionnaires during
+  school hours before (T1: January/February 2022) and after (T2: April/May 2022) the
+  Russia–Ukraine war onset. Additionally, the media salience of the war was quantiﬁed
+  separately for the national newspaper and Twitter. Results: Levels of prejudice
+  signiﬁcantly decreased from T1 to T2 for multiple ethnic minority groups but especially
+  so for the Ukrainian group. The results of bivariate Latent Change Score models
+  highlighted that increased salience of the war in the national newspaper was signiﬁcantly
+  associated with decreased prejudice against Ukrainians, regardless of adolescents'
+  levels of self‐reported newspaper consumption. Conversely, changes in the salience
+  of the war on Twitter were not associated with changes in prejudice. Conclusions:
+  These ﬁndings highlight the importance of media attention for the war's victims
+  in skewing individuals' outgroup perceptions and feelings."
+tags:
+- media influences
+- Russia-Ukraine ward
+- ethnic prejudice
+- longitudinal
+
+links:
+- name: Codes and study materials
+  url: https://osf.io/njehw/
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jad.12234
+
+reading_time: false
+show_date: false
+share: true
+---
