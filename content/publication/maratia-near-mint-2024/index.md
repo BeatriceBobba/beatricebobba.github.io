@@ -5,7 +5,6 @@ authors:
 - Beatrice Bobba
 - Elisabetta Crocetti
 date: '2024-01-01'
-publishDate: '2025-06-01T17:55:08.885863Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Psychology: General*'
@@ -21,7 +20,17 @@ abstract: Integration of people with a migrant background is essential to foster
   generations and with different roles might be a starting point to develop possible
   interventions in different contexts and to unveil which agents (e.g., teachers)
   can play a crucial role in promoting social cohesion.
+tags:
+- attitudes towards migrant integration
+- adolescents
+- parents and teachers
+- scale development and validation
 links:
-- name: URL
-  url: http://doi.apa.org/getdoi.cfm?doi=10.1037/xge0001472
+- name: Codes & study materials
+  url: https://osf.io/h84eb/
+url_pdf: https://psycnet.apa.org/fulltext/2024-11488-001.pdf
+
+reading_time: false
+show_date: false
+share: true
 ---
