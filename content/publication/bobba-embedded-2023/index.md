@@ -6,7 +6,6 @@ authors:
 - Valeria Bacaro
 - Elisabetta Crocetti
 date: '2023-01-01'
-publishDate: '2025-06-01T17:55:08.813608Z'
 publication_types:
 - article-journal
 publication: '*Adolescent Research Review*'
@@ -28,7 +27,16 @@ abstract: Dramatic changes in sleep duration, schedules, and quality put adolesc
   need for more longitudinal and multimethod studies addressing sleep quality as embedded
   in contexts and the reciprocal influences among the multiple layers of adolescents’
   development.
-links:
-- name: URL
-  url: https://link.springer.com/10.1007/s40894-023-00204-0
+
+tags:
+- sleep quality
+- distal influences
+- systematic review
+- adolescence
+
+url_pdf: https://link.springer.com/10.1007/s40894-023-00204-0
+
+reading_time: false
+show_date: false
+share: true
 ---
