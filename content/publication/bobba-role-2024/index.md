@@ -6,7 +6,6 @@ authors:
 - Sule Yuksel
 - Giulio D’Urso
 date: '2024-12-01'
-publishDate: '2025-06-01T17:55:08.916113Z'
 publication_types:
 - article-journal
 publication: '*Sexuality & Culture*'
@@ -27,17 +26,14 @@ abstract: 'Teachers play a crucial role in fostering inclusive school environmen
   significance of interventions and monitoring efforts tailored to educators, encompassing
   their social, moral, and individual dimensions.'
 tags:
-- Prejudice
-- Teachers
-- Ethnicity
-- Self-efficacy
-- Social Cognition
-- Social Psychology
-- Educational Psychology
-- Homosexuality
-- Moral Disengagement
-- Person-Centered Psychotherapy
-links:
-- name: URL
-  url: https://doi.org/10.1007/s12119-024-10235-x
+- teachers
+- prejudice
+- moral disengagement
+- latent profile analysis
+- 
+url_pdf: https://doi.org/10.1007/s12119-024-10235-x
+
+reading_time: false
+show_date: false
+share: true
 ---
