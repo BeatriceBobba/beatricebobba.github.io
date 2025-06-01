@@ -11,7 +11,6 @@ authors:
 - Maha Elsinbawi
 - Elisabetta Crocetti
 date: '2025-09-01'
-publishDate: '2025-06-01T15:33:00.015713Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Intercultural Relations*'
@@ -33,12 +32,16 @@ abstract: Schools are increasingly culturally diverse. Yet, it is unclear whethe
   the impact of school diversity climate on youth's social well-being. Overall, findings
   highlight how inclusive schools can generate more inclusive societies.
 tags:
-- Schools
-- Adolescence
-- Academic achievement
-- Diversity climate
-- Social well-being
+- school context
+- cultural diversity climate
+- academic achievement
+- social well-being
+- adolescence
 links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0147176725000781
+- name: Codes & study materials
+  url: https://osf.io/syg6c/
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0147176725000781
+reading_time: false
+show_date: false
+share: true
 ---
